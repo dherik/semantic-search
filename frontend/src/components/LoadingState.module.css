@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  padding: 48px 0;
+  color: var(--text-muted);
+}
+
+.icon {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.message {
+  font-weight: 500;
+}
+
+.detail {
+  font-size: 13px;
+  margin-top: 4px;
+}

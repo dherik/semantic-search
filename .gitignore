@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# TypeScript incremental build
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal notes
+notes/

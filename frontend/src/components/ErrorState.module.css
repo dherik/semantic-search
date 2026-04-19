@@ -1,0 +1,18 @@
+.container {
+  background: var(--error-bg);
+  border: 1px solid var(--error-border);
+  border-radius: 12px;
+  padding: 20px;
+  color: var(--error);
+}
+
+.hint {
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+.code {
+  background: var(--error-code-bg);
+  padding: 1px 6px;
+  border-radius: 4px;
+}

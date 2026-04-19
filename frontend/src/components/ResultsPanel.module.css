@@ -1,0 +1,36 @@
+.statsBar {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+  padding: 12px 16px;
+  background: var(--bg);
+  border-radius: 10px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.statsQuery {
+  color: var(--text-dark);
+}
+
+.statsSemanticOnly {
+  color: var(--success);
+  font-weight: 500;
+}
+
+.statsKeywordOnly {
+  color: var(--warning);
+  font-weight: 500;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 24px;
+  align-items: start;
+}
+
+.resultWrapper {
+  position: relative;
+}

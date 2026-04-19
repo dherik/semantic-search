@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "title": "AI Engineer — Agent Systems",
+    "company": "Microsoft",
+    "location": "Remote",
+    "salary": "$180k–$250k",
+    "tags": ["AI", "Agents", "Semantic Kernel", "C#", "Azure"],
+    "description": "Build the next generation of autonomous AI agents using Semantic Kernel. Design and implement multi-agent orchestration systems that integrate with Microsoft 365 and Azure services. Work on tool-use patterns, planning algorithms, and memory systems for LLM-powered agents that automate complex enterprise workflows."
+  },
+  {
+    "id": "2",
+    "title": "Senior AI Engineer",
+    "company": "Stealth AI Startup",
+    "location": "San Francisco, CA",
+    "salary": "$160k–$220k",
+    "tags": ["AI", "Python", "LangChain", "RAG", "Transformers"],
+    "description": "Join a well-funded stealth startup building production-ready autonomous AI agents in Python. You will design retrieval-augmented generation pipelines, integrate with foundation models, and ship agentic systems that perform real work for enterprise customers."
+  },
+  {
+    "id": "3",
+    "title": "RAG Systems Engineer",
+    "company": "Glean",
+    "location": "Remote",
+    "salary": "$170k–$230k",
+    "tags": ["RAG", "Python", "Embeddings", "Information Retrieval", "Search"],
+    "description": "Design and scale Glean's retrieval systems. Build robust embedding pipelines, improve vector search quality, and optimize ranking signals for enterprise knowledge retrieval. You will work on the core technology that powers semantic search across millions of documents."
+  },
+  {
+    "id": "4",
+    "title": "Senior Frontend Engineer",
+    "company": "Vercel",
+    "location": "Remote",
+    "salary": "$160k–$210k",
+    "tags": ["React", "Next.js", "TypeScript", "Frontend"],
+    "description": "Work on Next.js and the Vercel dashboard. Push the boundaries of web performance with React Server Components, streaming SSR, and edge computing. Contribute to one of the most popular frontend frameworks used by millions of developers worldwide."
+  },
+  {
+    "id": "5",
+    "title": "Developer Relations Engineer",
+    "company": "Hugging Face",
+    "location": "Remote",
+    "salary": "$140k–$190k",
+    "tags": ["ML", "Transformers", "Python", "DevRel", "Community"],
+    "description": "Help developers learn and adopt Hugging Face's ecosystem. Create tutorials, examples, and demos for transformer models. Run workshops, speak at conferences, and build sample applications that showcase model inference, fine-tuning, and deployment workflows."
+  },
+  {
+    "id": "6",
+    "title": "Senior Platform Engineer",
+    "company": "Shopify",
+    "location": "Remote (Canada)",
+    "salary": "$170k–$240k",
+    "tags": ["Ruby", "Go", "Kubernetes", "Infrastructure", "Platform"],
+    "description": "Build and operate the platform infrastructure that powers millions of Shopify merchants. Work on build systems, deployment pipelines, and developer tooling that helps product teams ship faster. Design scalable systems for one of the world's largest e-commerce platforms."
+  },
+  {
+    "id": "7",
+    "title": "Staff ML Engineer — Model Serving",
+    "company": "Together AI",
+    "location": "San Francisco, CA",
+    "salary": "$220k–$320k",
+    "tags": ["ML", "GPU", "Inference", "Python", "CUDA"],
+    "description": "Optimize large language model inference for throughput and latency. Work on GPU kernel optimization, speculative decoding, quantization, and batched inference. Push the boundaries of how fast we can serve foundation models at scale."
+  },
+  {
+    "id": "8",
+    "title": "Senior Backend Engineer",
+    "company": "Linear",
+    "location": "Remote",
+    "salary": "$160k–$200k",
+    "tags": ["TypeScript", "Node.js", "PostgreSQL", "GraphQL"],
+    "description": "Build the backend that powers the fastest project management tool. Design real-time collaboration features, optimize database queries, and build APIs that support sub-100ms response times. Work in a small team where every engineer ships features end-to-end."
+  },
+  {
+    "id": "9",
+    "title": "ML Research Engineer",
+    "company": "Scale AI",
+    "location": "San Francisco, CA",
+    "salary": "$200k–$300k",
+    "tags": ["ML", "PyTorch", "Data Quality", "Training", "Research"],
+    "description": "Develop methods for improving training data quality at scale. Work on data curation pipelines, model-based data filtering, and active learning strategies. Collaborate with research scientists to advance the state of the art in data-centric AI and publish findings."
+  },
+  {
+    "id": "10",
+    "title": "Senior Database Engineer",
+    "company": "PlanetScale",
+    "location": "Remote",
+    "salary": "$170k–$230k",
+    "tags": ["Go", "MySQL", "Vitess", "Distributed Systems", "Database"],
+    "description": "Work on the internals of a distributed MySQL database built on Vitess. Implement schema management features, optimize query routing, and contribute to database sharding logic. Help thousands of developers scale their relational data with zero-downtime migrations."
+  },
+  {
+    "id": "11",
+    "title": "DevOps Engineer",
+    "company": "Datadog",
+    "location": "New York, NY",
+    "salary": "$150k–$200k",
+    "tags": ["DevOps", "Terraform", "Kubernetes", "Monitoring"],
+    "description": "Manage and scale Datadog's own infrastructure using the same monitoring tools they sell. Automate infrastructure provisioning with Terraform, optimize Kubernetes clusters, and ensure 99.99% uptime for a platform processing trillions of data points per day."
+  },
+  {
+    "id": "12",
+    "title": "Senior Full Stack Engineer",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "salary": "$190k–$280k",
+    "tags": ["Ruby", "React", "TypeScript", "Payments", "APIs"],
+    "description": "Build payment infrastructure used by millions of businesses. Work across the stack from API design to React components. Tackle hard problems in distributed transactions, financial reconciliation, and developer experience for one of the most respected developer platforms."
+  },
+  {
+    "id": "13",
+    "title": "iOS Engineer",
+    "company": "Arc (The Browser Company)",
+    "location": "New York, NY",
+    "salary": "$150k–$200k",
+    "tags": ["Swift", "SwiftUI", "iOS", "Browser"],
+    "description": "Reimagine web browsing for iOS. Build innovative navigation, tab management, and extension systems in SwiftUI. Work on performance optimization and native APIs to deliver a browsing experience that feels fundamentally different from Safari and Chrome."
+  },
+  {
+    "id": "14",
+    "title": "Security Engineer",
+    "company": "CrowdStrike",
+    "location": "Austin, TX",
+    "salary": "$160k–$220k",
+    "tags": ["Security", "Python", "Malware Analysis", "Endpoint"],
+    "description": "Analyze threats and build detection systems for endpoint security. Reverse-engineer malware, write behavioral detection rules, and develop automated analysis pipelines. Work with real-world threat intelligence to protect enterprise customers from advanced persistent threats."
+  },
+  {
+    "id": "15",
+    "title": "Developer Advocate",
+    "company": "Twilio",
+    "location": "Remote",
+    "salary": "$130k–$180k",
+    "tags": ["Developer Advocacy", "APIs", "Communications", "Node.js"],
+    "description": "Champion Twilio's developer experience. Build sample apps, write technical blog posts, and create video content that helps developers learn new tools for communication APIs. Run hackathons, engage with the community, and represent Twilio at conferences worldwide."
+  },
+  {
+    "id": "16",
+    "title": "Senior Rust Engineer",
+    "company": "Turso",
+    "location": "Remote (Europe)",
+    "salary": "$140k–$190k",
+    "tags": ["Rust", "SQLite", "libSQL", "Distributed Systems"],
+    "description": "Build the future of edge databases. Implement replication protocols, optimize query execution in Rust, and work on embedded database technology. Contribute to libSQL, an open-source fork of SQLite, and build database infrastructure that runs at the edge."
+  },
+  {
+    "id": "17",
+    "title": "Staff Frontend Engineer",
+    "company": "Figma",
+    "location": "San Francisco, CA",
+    "salary": "$220k–$300k",
+    "tags": ["TypeScript", "WebGL", "Canvas", "React"],
+    "description": "Push the limits of what's possible in the browser. Optimize Figma's Canvas rendering engine using WebGL, build high-performance interaction systems, and implement complex UI patterns for collaborative design tools used by millions of designers and developers."
+  },
+  {
+    "id": "18",
+    "title": "Data Engineer",
+    "company": "dbt Labs",
+    "location": "Remote",
+    "salary": "$140k–$190k",
+    "tags": ["SQL", "Python", "dbt", "Data Warehousing", "ETL"],
+    "description": "Build tools that transform how analytics teams work with data. Improve dbt Core's execution engine, design new transformation features, and optimize query planning for massive datasets. Work on the open-source data transformation framework used by thousands of data teams."
+  },
+  {
+    "id": "19",
+    "title": "Blockchain Engineer",
+    "company": "Alchemy",
+    "location": "Remote",
+    "salary": "$180k–$260k",
+    "tags": ["Solidity", "Ethereum", "Web3", "Node.js", "APIs"],
+    "description": "Build infrastructure for decentralized finance and blockchain development. Design and scale API services that handle billions of blockchain RPC calls. Work on transaction simulation, indexing, and developer tools for the Web3 ecosystem."
+  },
+  {
+    "id": "20",
+    "title": "Senior Systems Engineer — Real-Time",
+    "company": "Discord",
+    "location": "San Francisco, CA",
+    "salary": "$180k–$250k",
+    "tags": ["Elixir", "Rust", "Real-Time", "WebSockets", "Low Latency"],
+    "description": "Build the real-time messaging infrastructure that connects millions of users simultaneously. Optimize WebSocket connections, implement ETS-based state management in Elixir, and write Rust NIFs for performance-critical paths. Ensure sub-100ms message delivery at massive scale."
+  },
+  {
+    "id": "21",
+    "title": "Computer Vision Engineer",
+    "company": "Runway",
+    "location": "New York, NY",
+    "salary": "$190k–$270k",
+    "tags": ["Computer Vision", "PyTorch", "Diffusion Models", "Generative AI"],
+    "description": "Work on state-of-the-art generative video models. Train and optimize diffusion models for video generation, implement novel architectures for temporal consistency, and push the boundaries of what generative AI can create in the visual domain."
+  },
+  {
+    "id": "22",
+    "title": "SRE Engineer",
+    "company": "Cloudflare",
+    "location": "Austin, TX",
+    "salary": "$160k–$220k",
+    "tags": ["SRE", "Go", "Linux", "Networking", "Edge Computing"],
+    "description": "Keep the internet fast and reliable. Manage systems that handle 20% of all web traffic. Automate incident response, optimize edge server performance, and build reliability tooling for one of the world's largest edge computing and security platforms."
+  },
+  {
+    "id": "23",
+    "title": "NLP Engineer",
+    "company": "Cohere",
+    "location": "Toronto, Canada",
+    "salary": "$160k–$220k",
+    "tags": ["NLP", "Transformers", "Python", "Training", "Evaluation"],
+    "description": "Train and evaluate large language models for enterprise applications. Work on instruction tuning, RLHF, and evaluation benchmarks. Build robust NLP systems that power search, summarization, and content generation for business customers."
+  },
+  {
+    "id": "24",
+    "title": "Full Stack Engineer — Developer Tools",
+    "company": "GitHub",
+    "location": "Remote",
+    "salary": "$160k–$220k",
+    "tags": ["React", "Ruby", "Go", "Developer Tools", "Git"],
+    "description": "Build features used by 100 million developers. Work on code review, Actions workflows, Copilot integrations, and repository management. Ship improvements to one of the most important developer platforms in the world, spanning frontend and backend systems."
+  },
+  {
+    "id": "25",
+    "title": "Robotics Software Engineer",
+    "company": "Figure AI",
+    "location": "Sunnyvale, CA",
+    "salary": "$180k–$260k",
+    "tags": ["Robotics", "C++", "Python", "ROS", "Simulation"],
+    "description": "Write software for humanoid robots that work alongside humans. Develop locomotion controllers, manipulation algorithms, and simulation environments. Bridge the gap between AI and the physical world in a fast-paced robotics startup backed by major tech leaders."
+  },
+  {
+    "id": "26",
+    "title": "Senior Mobile Engineer",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "salary": "$170k–$230k",
+    "tags": ["React Native", "Swift", "Kotlin", "Mobile"],
+    "description": "Build the mobile experience for one of the most popular productivity tools. Implement offline sync, rich text editing on mobile, and native platform integrations. Work across React Native, Swift, and Kotlin to deliver a seamless cross-platform experience."
+  },
+  {
+    "id": "27",
+    "title": "Infrastructure Engineer",
+    "company": "Fly.io",
+    "location": "Remote",
+    "salary": "$160k–$220k",
+    "tags": ["Go", "Firecracker", "Networking", "Linux", "Edge"],
+    "description": "Build the infrastructure platform that runs applications at the edge. Work on Firecracker microVM orchestration, global load balancing, and low-latency networking. Design systems that deploy and run serverless functions and databases close to users worldwide."
+  },
+  {
+    "id": "28",
+    "title": "Quantitative Developer",
+    "company": "Jane Street",
+    "location": "New York, NY",
+    "salary": "$250k–$400k",
+    "tags": ["OCaml", "C++", "Finance", "Algorithms", "Low Latency"],
+    "description": "Build trading systems that execute millions of transactions per day. Write high-performance code in OCaml and C++, implement risk management algorithms, and optimize network paths for ultra-low latency trading. Work with some of the brightest minds in quantitative finance."
+  },
+  {
+    "id": "29",
+    "title": "Privacy Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "salary": "$170k–$250k",
+    "tags": ["Privacy", "Differential Privacy", "C++", "Security"],
+    "description": "Implement privacy-preserving technologies across Apple's ecosystem. Work on differential privacy systems, on-device ML processing, and data minimization techniques. Ensure that Apple's products protect user privacy while still delivering intelligent features."
+  },
+  {
+    "id": "30",
+    "title": "Game Engine Engineer",
+    "company": "Epic Games",
+    "location": "Cary, NC",
+    "salary": "$160k–$230k",
+    "tags": ["C++", "Unreal Engine", "GPU", "Rendering", "Physics"],
+    "description": "Work on the core rendering and physics systems of Unreal Engine. Optimize GPU pipelines for next-generation graphics, implement physics simulation algorithms, and contribute to one of the most widely used game development platforms in the industry."
+  }
+]
