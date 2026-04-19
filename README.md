@@ -1,5 +1,7 @@
 # Tech Jobs — Semantic Search & AI Agent
 
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue) ![Node](https://img.shields.io/badge/Node-22+-green) ![React](https://img.shields.io/badge/React-19-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+
 A full-stack semantic search engine for tech job listings, with an AI agent that can search jobs, analyze skill gaps, and compute salary insights. The app has two modes:
 
 - **Search tab** — demonstrates the difference between **semantic search** (meaning-based, powered by Gemini embeddings) and **keyword search** (word-matching) side by side
